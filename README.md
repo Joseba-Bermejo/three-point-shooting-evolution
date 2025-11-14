@@ -54,5 +54,5 @@ The final analysis challenges the assumption that increased 3-point volume comes
 
 - [Trello (Kanban Board)](https://trello.com/b/N9p2efYk/nba-vs-euroleague-defense)
 - [Visualizations G-Sheet](https://docs.google.com/spreadsheets/d/1cTktLIg_FSRoOjIIciU5MrxEJ1mOyX0oeR2IvhNfUgM/edit)
-- [Presentation Slides](https://docs.google.com/presentation/d/1eIiYDLv2m5j2wnUbISQF_i6USvnNt7Gqxzgm4yg24f8/edit)
+- [Presentation Slides]([https://docs.google.com/presentation/d/1eIiYDLv2m5j2wnUbISQF_i6USvnNt7Gqxzgm4yg24f8/edit](https://docs.google.com/presentation/d/e/2PACX-1vS8J_TK7sEmG5_8CjSlquofyMC3oWLOADdxvdXToVIbizvt1pzebeoAwBVLidNZZvTmHTJI1qBWVp21/pub?start=false&loop=false&delayms=3000&slide=id.p1))
 
